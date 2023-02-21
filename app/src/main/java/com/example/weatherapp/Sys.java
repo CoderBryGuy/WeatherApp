@@ -1,6 +1,6 @@
 package com.example.weatherapp;
 
-package com.example.weatherapp; ;
+
 
 import javax.annotation.Generated;
 import com.google.gson.annotations.Expose;

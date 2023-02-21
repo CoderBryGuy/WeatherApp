@@ -1,6 +1,6 @@
 package com.example.weatherapp;
 
-package com.example.weatherapp; ;
+
 
 import java.util.List;
 import javax.annotation.Generated;
