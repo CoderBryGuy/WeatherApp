@@ -60,6 +60,10 @@ double lat, lon;
                 Intent intent = new Intent(MainActivity.this, WeatherActivity.class);
                 startActivity(intent);
 
+
+
+
+
             }
         });
 
